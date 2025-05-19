@@ -1,0 +1,16 @@
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore Jupyter checkpoints
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Ignore model files
+saved_model/
+*.h5
+*.ckpt
+
+# Ignore logs, temp data
+*.log
+*.tmp
